@@ -1,0 +1,12 @@
+{
+    "name":"Node_Docker",
+    "version":"1.0.0",
+    "author":"No_one7",
+    "main":"server.js",
+    "scripts":{
+        "start":"node server.js"
+    },
+    "dependencies":{
+        "express":"^4.16.1"
+    }
+}
